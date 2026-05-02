@@ -34,4 +34,17 @@ Update these values in `application.yaml` (do not commit real credentials):
 - /menu-join
 
 ## Screenshots
-Add screenshots here.
+Menu list
+![Menu list](assets/menu_ss.png)
+
+Add menu item form
+![Add menu item](assets/addform_ss.png)
+
+Update menu item
+![Update menu item](assets/update_ss.png)
+
+Join data view
+![Join data](assets/join_data.png)
+
+MySQL setup
+![MySQL setup](assets/mysql_ss.png)
